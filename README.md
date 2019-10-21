@@ -1,35 +1,15 @@
-# Welcome to my learning journal
+# Welcome to my Learning Journal
 
-My name is Anna Propper.  I am a software engineer.  I live in the Cayman Islands.
+# Introduction
+My name is Anna Propper.  I am a software engineer.  I live in the Cayman Islands with my husband, my eight year-old son and my dog, Boomer.  We love to travel and visit science museums.  
 
-### Markdown
+# Learning Journal
+This site is the place where I will be documenting my learning on the **102 Code Fellows** week-long course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Growth Mindset
+Growth Mindset is the ability to meet challeges with persistence.  In the face of difficult obstabcles it is the ability to keep trying despite not understanding something the first and even the sixth time.  Growth  mindset advocates excellence as a product of hard work rather than innate intelligence. In the gowth mindset model learning is something for everyone.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ampropper/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*In summary*, growth mindset requires:
+1. Persistence
+2. Hard work
+3. A positive attitude even in the face of challenges
