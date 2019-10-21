@@ -14,4 +14,5 @@ Growth Mindset is the ability to meet challeges with persistence.  In the face o
 2. Hard work
 3. A positive attitude even in the face of challenges
 
-As Confucius said: <It does not matter how slowly you go so long as you dont stop>.
+As Confucius said: 
+<It does not matter how slowly you go so long as you dont stop.
