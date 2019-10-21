@@ -1,6 +1,6 @@
 # Welcome to my learning journal
 
-My name is Anna
+My name is Anna Propper.  I am a software engineer.  I live in the Cayman Islands.
 
 ### Markdown
 
