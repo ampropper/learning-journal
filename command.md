@@ -13,16 +13,16 @@ To open The Terminal on a Mac press "comman+space" to bring up Spotlight.  Type 
 
 ## Most Common Terminal Commands
 
-#|  Commands        |  Meaning               |
+|  Commands        |  Meaning               |
 | ------------- | ------------:             |
-| cd     |  change directory                 |
-| ls      |    list                          |
-| pwd | present working directory            |
-| mv (source) (destination)| move            |
-| cp (source) (destination) | copy           |
-| rm | remove file                           |
-| touch (name of file) | create file         |
-| mkdir (name of directory) | make directory |
+ cd     |  change directory                 |
+ls      |    list                          |
+pwd | present working directory            |
+mv (source) (destination)| move            |
+cp (source) (destination) | copy           |
+ rm | remove file                           |
+ touch (name of file) | create file         |
+ mkdir (name of directory) | make directory |
 
 nb. a directory is the same thing as a folder
 
