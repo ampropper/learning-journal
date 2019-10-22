@@ -14,7 +14,7 @@ To open The Terminal on a Mac press "comman+space" to bring up Spotlight.  Type 
 ## Most Common Terminal Commands
 
 # Commands  |   Meaning
--------------------------
+----------- |  ------------
 cd | change directory
 ls | list
 pwd | present working directory
@@ -29,5 +29,6 @@ nb. a directory is the same thing as a folder
 You can add command line arguments to commands
 
 # Commands  |  Meaning
+----------- |  ------------
 ls -a | lists contents of a everything in a directory including hidden files
 cd .. | go back one level
