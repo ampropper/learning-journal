@@ -32,3 +32,23 @@ You can add command line arguments to commands
 ----------- |  ------------
 ls -a | lists contents of a everything in a directory including hidden files
 cd .. | go back one level
+
+| # Commands        |  Meaning               |
+| ------------- | ------------ :             |
+| cd     |  change directory                 |
+| ls      |    list                          |
+| pwd | present working directory            |
+| mv (source) (destination)| move            |
+| cp (source) (destination) | copy           |
+| rm | remove file                           |
+| touch (name of file) | create file         |
+| mkdir (name of directory) | make directory |
+
+nb. a directory is the same thing as a folder
+
+You can add command line arguments to commands
+
+| # Commands        |  Meaning                                               |
+| ------------- | -----:                                                     |
+ls -a | lists contents of a everything in a directory including hidden files |
+cd .. | go back one level                                                    |
